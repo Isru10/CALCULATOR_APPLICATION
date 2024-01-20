@@ -60,3 +60,4 @@ equals.grid(row=4,column=3)
 clear=Button(frame,text='clear' ,font=35,width=9,height=4,command=clear)
 clear.grid(row=4,column=1)
 window.mainloop()
+'''hola this is a calculator app'''
