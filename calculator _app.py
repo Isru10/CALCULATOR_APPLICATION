@@ -1,4 +1,5 @@
 from tkinter import * 
+''' new text'''
 window = Tk()
 window.geometry('500x500')
 def button_press(num):
